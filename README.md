@@ -42,7 +42,7 @@
 
 
 - 최종 train weighted avg f1-score = 0.92<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; teset weighted avg f1-score = 0.93
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; teset weighted avg f1-score = 0.93 (basemodel의 weighted avg f1-score =0.83 보다 0.1 높음)
 
 <img width = "400" src="https://user-images.githubusercontent.com/102526342/222626588-cb256710-5812-4be5-bdb3-0c10fbc57bdb.png">
 
